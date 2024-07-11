@@ -19,3 +19,6 @@
 
 * How to run the testing suite
 - bundle exec rspec spec/models/note_spec.rb
+
+* Checking endpoints
+- Postman
